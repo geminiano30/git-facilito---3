@@ -86,7 +86,7 @@ html[xmlns] .slides {
 *********************************/
 .flexslider {
   margin: 0 0;
-  background: #eee;
+  background: #aaa;
   position: relative;
   zoom: 1;
 }
@@ -100,7 +100,7 @@ html[xmlns] .slides {
 }
 
 .loading .flex-viewport {
-  max-height: 300px;
+  max-height: 600px;
 }
 
 .flexslider .slides {
@@ -118,7 +118,7 @@ html[xmlns] .slides {
 
 .flex-direction-nav a {
   display: block;
-  width: 40px;
+  width: px;
   height: 40px;
   margin: -20px 0 0;
   position: absolute;
